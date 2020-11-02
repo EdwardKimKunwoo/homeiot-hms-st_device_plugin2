@@ -1,0 +1,59 @@
+<html>
+  <head>
+    <title>HomeNet Device</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="viewport-fit=cover, width=device-width, height=device-height, initial-scale=1, user-scalable=no">
+	<meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Cache-Control" content="no-cache">
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+
+    <!-- SAMSUNG CONNECT API -->
+    <script type="text/javascript" src="./js/util.js"></script>
+    <script type="text/javascript" src="./lib/jquery-3.3.1.js"></script>
+
+    <script type="text/javascript" src="./js/language.js"></script>
+    <script type="text/javascript" src="./js/main.js"></script>
+    <script type="text/javascript" src="./js/common.js"></script>
+    <script type="text/javascript" src="./js/viewcard.js"></script>
+    <script type="text/javascript" src="./js/page.js"></script>
+
+    <!-- HOMENET PROVIDER -->
+    <script type="text/javascript" src="./js/provider.js"></script>
+
+  </head>
+  <body>
+    <div id="mainPage" class="plugin-page show" data-page="1">
+        <!-- action bar area -->
+        <div id="actionBarArea" class="plugin-page__action-bar hero">
+            <div id="actionBarBack" class="plugin-page__action-bar__back">
+                <!--<img src="./res/png/back.png" class="act_icon" id="icon_back"/>-->
+            </div>
+            <div id="actionBarTitle" class="plugin-page__action-bar__title">
+                <div class="plugin-page__action-bar__title__wrapper">
+                    <div id="actionBarDeviceName" class="plugin-page__action-bar__title__text" role="heading"></div>
+                    <div id="actionBarLocation" class="plugin-page__action-bar__location__text"></div>
+                </div>
+            </div>
+            <div id="actionBarOption" class="plugin-page__action-bar__more" aria-haspopup="true" onclick='moreOption()'>
+                <!--<img src="./res/png/more.png" id="icon_back"/>-->
+            </div>
+        </div>
+        <!-- content area -->
+        <div id="contentsContainer" class="plugin-page__container">
+            <div id="paneContainer" class="ux2-pane-container">
+                <div id="mainPanel" class="ux2-pane scrollable" data-scroll-direction="vertical">
+                    <div id="notificationArea" class="ux2-notification-list"></div>
+                    <div id='heroCardArea' class="hero_card">
+                    </div>
+                    <div id='funcCardArea' class="func_card">
+                    </div>
+                </div>
+            </div>
+            <svg id="boundary-feedback-area" width="100%" height="100%" class="hide" opacity="1" style="position: absolute; pointer-events: none; z-index:12">
+                <circle id="feedback_circle" cx="206" cy="-774" r="824" fill="#4297ff" opacity="0.15"/>
+            </svg>
+        </div>
+    </div>
+    <div id="messageDiv" style="position:fixed; top:48px;left:0px;width:100%;height:100%;z-index:11"></div>
+  </body>
+</html>
