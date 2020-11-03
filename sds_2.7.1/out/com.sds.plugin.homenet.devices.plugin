@@ -1,0 +1,11 @@
+{
+  "id": "com.sds.plugin.homenet.devices",
+  "name": "com.sds.plugin.homenet.devices",
+  "version": "271",
+  "versionName": "2.7.1",
+  "url": "ppks/com.sds.plugin.homenet.devices_2.7.1.ppk",
+  "deviceType": "none",
+  "deviceSubType": "none",
+  "deviceManufacturer": "default.manufacturer",
+  "platformVersion": "1.1.0"
+}
