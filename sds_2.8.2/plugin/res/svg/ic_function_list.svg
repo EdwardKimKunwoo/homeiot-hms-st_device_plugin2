@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>SVG/HomeNet/AOS/IC/List/ic_function_List</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="10" y="10" width="4" height="4"></rect>
+    </defs>
+    <g id="HomeNet/AOS/IC/List/ic_function_List" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Mask" fill="#252525" transform="translate(12.000000, 12.000000) rotate(45.000000) translate(-12.000000, -12.000000) " xlink:href="#path-1"></use>
+    </g>
+</svg>

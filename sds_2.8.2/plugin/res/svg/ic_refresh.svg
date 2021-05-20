@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>ic_refresh</title>
+    <g id="ic_refresh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-Copy-2">
+            <rect id="Rectangle" x="0" y="0" width="18" height="18"></rect>
+            <g id="자산-1" transform="translate(4.106250, 4.162500)" stroke="#FFFFFF" stroke-width="0.5625">
+                <path d="M6.80794438,0.385875 C8.96548007,1.34805168 10.1125115,3.72781969 9.52112293,6.01495847 C8.92973438,8.30209725 6.77291593,9.82758437 4.41940247,9.62333302 C2.06588901,9.41908168 0.204118579,7.54483845 0.0155861592,5.19001367 C-0.172946261,2.83518889 1.36690789,0.68860417 3.65794438,0.1125" id="Path"></path>
+                <polyline id="Path" points="8.71875 0.05625 6.69375 0.05625 6.69375 2.08125"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
