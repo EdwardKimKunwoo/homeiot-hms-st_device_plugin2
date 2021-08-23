@@ -1,0 +1,27 @@
+.roboto-light
+{
+    font-family: 'sec-roboto-light', 'Roboto', -apple-system, 'Segoe UI' , Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+.roboto-regular
+{
+    font-family: 'sec-roboto-light', 'Roboto', -apple-system, 'Segoe UI' , Helvetica, Arial, sans-serif;
+}
+
+.roboto-medium
+{
+    font-family: 'sec-roboto-light', 'Roboto', -apple-system, 'Segoe UI' , Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}
+
+.roboto-condensed-regular
+{
+    font-family:'sec-roboto-condensed', 'Roboto Condensed', -apple-system, 'Segoe UI' , Helvetica, Arial, sans-serif;
+}
+
+.roboto-condensed-bold
+{
+    font-family: 'sec-roboto-condensed', 'Roboto Condensed', -apple-system, 'Segoe UI' , Helvetica, Arial, sans-serif;
+    font-weight: bold;
+}

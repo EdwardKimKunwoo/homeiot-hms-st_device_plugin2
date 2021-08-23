@@ -1,0 +1,24 @@
+window.Resource.set(() => {
+    return '\
+    <?xml version="1.0" encoding="UTF-8"?>\
+    <svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">\
+        <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->\
+        <title>SVG_mdpi/ic_device_gas_valve_on_56x56</title>\
+        <desc>Created with Sketch.</desc>\
+        <defs>\
+            <linearGradient x1="21.156746%" y1="9.24553418%" x2="77.8589287%" y2="91.6800715%" id="linearGradient-gas">\
+                <stop stop-color="#FFA4A4" offset="0%"></stop>\
+                <stop stop-color="#FFD45F" offset="100%"></stop>\
+            </linearGradient>\
+        </defs>\
+        <g id="symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+            <g id="IC/device/gas_valve_on_56x56">\
+                <rect id="Rectangle" fill="#434343" fill-rule="nonzero" x="11.2" y="11.2" width="33.6" height="33.6" rx="8.5"></rect>\
+                <circle id="Oval" fill="#434343" cx="28" cy="28" r="8.4"></circle>\
+                <circle id="Oval" fill="url(#linearGradient-gas)" fill-rule="nonzero" cx="28" cy="28" r="12.6"></circle>\
+                <path d="M23.6381005,15.4 L32.3619129,15.4 C32.9141947,15.4000055 33.3619075,15.8477183 33.3619075,16.4 C33.3619075,16.4672254 33.3551286,16.5342795 33.3416737,16.6001447 C32.5805579,20.3260058 32.2,24.0518669 32.2,27.777728 C32.2,31.6537197 32.5837824,35.5297115 33.3513471,39.4057032 C33.4586749,39.9474806 33.1064472,40.4736598 32.5646623,40.5809497 C32.5006832,40.5936195 32.4356181,40.6 32.3703966,40.6 L23.6296105,40.6 C23.0773177,40.6000145 22.629596,40.1522928 22.629596,39.6 C22.629596,39.5347799 22.6359764,39.4697162 22.6486459,39.4057385 C23.4162153,35.529735 23.8,31.6537315 23.8,27.777728 C23.8,24.0518799 23.4194448,20.3260318 22.6583343,16.6001837 C22.5477551,16.0590606 22.8968168,15.5307759 23.4379477,15.4202345 C23.5038156,15.4067791 23.5708724,15.4 23.6381005,15.4 Z" id="Rectangle" fill="#434343" fill-rule="nonzero"></path>\
+                <circle id="Oval" fill="url(#linearGradient-gas)" fill-rule="nonzero" cx="28" cy="19.6" r="1.4"></circle>\
+            </g>\
+        </g>\
+    </svg>'
+});

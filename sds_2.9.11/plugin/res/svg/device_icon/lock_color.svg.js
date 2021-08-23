@@ -1,0 +1,24 @@
+window.Resource.set(() => {
+    return '\
+    <?xml version="1.0" encoding="UTF-8"?>\
+    <svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">\
+        <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->\
+        <title>IC/07 Device_Purple/lock_color</title>\
+        <desc>Created with Sketch.</desc>\
+        <defs>\
+            <linearGradient x1="35.0523287%" y1="1.569545%" x2="61.26973%" y2="88.4572468%" id="linearGradient-1">\
+                <stop stop-color="#B896FF" offset="0%"></stop>\
+                <stop stop-color="#FFB8E8" offset="100%"></stop>\
+            </linearGradient>\
+        </defs>\
+        <g id="IC/07-Device_Purple/lock_color" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">\
+            <path d="M27,14 L25,14 L25,11 C25,8.23857625 22.7614237,6 20,6 C17.2385763,6 15,8.23857625 15,11 L15,24 L13,24 L13,11 C13,7.13400675 16.1340068,4 20,4 C23.8659932,4 27,7.13400675 27,11 L27,14 Z" id="Path" fill="#D0A1F7" fill-rule="nonzero"></path>\
+            <g id="Group-37" transform="translate(8.000000, 14.000000)" fill="#595959" fill-rule="nonzero">\
+                <g id="Group-6-">\
+                    <path d="M2.55,0 L21.45,0 C22.8583261,0 24,1.14167389 24,2.55 L24,17.45 C24,18.8583261 22.8583261,20 21.45,20 L2.55,20 C1.14167389,20 0,18.8583261 0,17.45 L0,2.55 C0,1.14167389 1.14167389,0 2.55,0 Z" id="Rectangle-9--91"></path>\
+                </g>\
+            </g>\
+            <path d="M20,19.5 C21.3807119,19.5 22.5,20.6192881 22.5,22 C22.5,23.2093254 21.6413382,24.2180997 20.5004345,24.4499027 L20.5,28 C20.5,28.2761424 20.2761424,28.5 20,28.5 C19.7238576,28.5 19.5,28.2761424 19.5,28 L19.500574,24.4501074 C18.3591679,24.2186941 17.5,23.2096818 17.5,22 C17.5,20.6192881 18.6192881,19.5 20,19.5 Z" id="Combined-Shape" fill="url(#linearGradient-1)" fill-rule="nonzero"></path>\
+        </g>\
+    </svg>'
+});
