@@ -126,7 +126,7 @@ function LoadLanguageSet(_localeCode_) {
             LanguageSet['INTEGRATED_SWITCH_NAME'] = '일괄소등스위치';
             LanguageSet['INTEGRATED_SWITCH_ON'] = '켜짐';
             LanguageSet['INTEGRATED_SWITCH_OFF'] = '꺼짐';
-            LanguageSet['INTEGRATED_SWITCH_INFORMATION'] = '일괄소등스위치는 연결된 빌트인 스위치 전체를 켜거나 끌 수 있습니다.<br>연결된 각각의 스위치는 각각의 켜짐/꺼짐 상태를 가지고 있습니다. 개별 스위치가 꺼져 있으면 일괄소등스위치로 조작 할 수 없습니다.';
+            LanguageSet['INTEGRATED_SWITCH_INFORMATION'] = '일괄소등스위치는 연결된 빌트인 스위치를 끌 수 있습니다.';
             LanguageSet['CONNECTED_DEVICE_CARD_TITLE'] = '연결된 디바이스';
             LanguageSet['BUILT_IN_LIGHT'] = '빌트인 조명';
             LanguageSet['INTEGRATED_SWITCH_BIXBY'] = '\"하이 빅스비, 일괄소등스위치 켜줘.\"';
@@ -311,7 +311,7 @@ function LoadLanguageSet(_localeCode_) {
             LanguageSet['INTEGRATED_SWITCH_NAME'] = 'Integrated switch';
             LanguageSet['INTEGRATED_SWITCH_ON'] = 'ON';
             LanguageSet['INTEGRATED_SWITCH_OFF'] = 'OFF';
-            LanguageSet['INTEGRATED_SWITCH_INFORMATION'] = "The integrated switch turns on or off all of the devices that are connected to it.<br> Keep in mind that the added devices have their own power settings. If a device is separately powered off, the integrated switch may not be able to turn it on.";
+            LanguageSet['INTEGRATED_SWITCH_INFORMATION'] = "The integrated switch turns off the devices that are connected to it.";
             LanguageSet['CONNECTED_DEVICE_CARD_TITLE'] = 'Connected devices';
             LanguageSet['BUILT_IN_LIGHT'] = 'Built-in lights';
             LanguageSet['INTEGRATED_SWITCH_BIXBY'] = '\"Hi Bixby, Turn on the switch.\"';
