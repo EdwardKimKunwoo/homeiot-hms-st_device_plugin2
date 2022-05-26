@@ -2726,6 +2726,8 @@ class DoorLockCard extends ButtonCard {
                 this._ele.canv = $(c.canvas({className: 'iot_lockIcon_canv'}))
             ));
             this._ele._button.append(this._ele._lockIconWrapper);
+            this._ele._button.addClass('hide');
+            this._ele._buttonwrapper.css('height','10px');
             this._ele._powerButton.remove();
 
             this.ctx = this._ele.canv[0].getContext('2d');
