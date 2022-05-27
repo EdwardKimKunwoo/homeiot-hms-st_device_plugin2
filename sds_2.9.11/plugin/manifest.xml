@@ -2,8 +2,8 @@
   <manifest xmlns="http://samsung.com/ns/plugin"
       manifestVersionCode="0"
       package="com.sds.plugin.homenet.devices"
-      versionCode="292"
-      versionName="2.9.11"
+      versionCode="293"
+      versionName="2.9.12"
       minPluginSdkVersion="1.1.0">
 
     <plugin label="default.plugin" icon="icon.png" >

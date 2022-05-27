@@ -12,7 +12,7 @@ SAMSUNG shall not be liable for any damages suffered by licensee as a result of 
 /******************************************************************************
  * Configure Value
  *******************************************************************************/
-var HNDevicePluginVersion = "2.9.11"; // plugin : 2.9.11, ST app : 1.7.67, Date : Aug 18 2021
+var HNDevicePluginVersion = "2.9.12"; // plugin : 2.9.12, ST app : 1.7.84.21, Date : May 27 2022
 var LocaleCode = getPreferredLocaleCode(navigator.language);
 
 window.VERBOSE_LOG_FLAG = false;    //debug log option
