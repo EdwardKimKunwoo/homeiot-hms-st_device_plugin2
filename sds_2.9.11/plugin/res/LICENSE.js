@@ -1,7 +1,7 @@
 document.licenseContents = '<div style="width:85vw"><pre style="word-wrap: break-word; white-space: pre-wrap; padding: 10px;">\n';
-document.licenseContents +="This application is Copyright SAMSUNG SDS CO.,LTD. All rights reserved.\n"
+document.licenseContents +="This application is Copyright ZIGBANG CO.,LTD. All rights reserved.\n"
 document.licenseContents +="The following sets forth attribution notices for third party software that may be contained in this application.\n"
-document.licenseContents +="If you have any questions or concerns, please contact us at shomeadmin@samsungsds.com"
+document.licenseContents +="If you have any questions or concerns, please contact us at help.homeiot@zigbang.com"
 document.licenseContents +="\n"
 document.licenseContents +="jquery\n"
 document.licenseContents +="https://github.com/jquery/jquery\n"
