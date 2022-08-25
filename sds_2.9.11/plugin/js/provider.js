@@ -10,7 +10,7 @@ SAMSUNG shall not be liable for any damages suffered by licensee as a result of 
 */
 
 window.provider = {
-	"id" : "zigbang",
+	"id" : "sds",
 	"name" : "ZIGBANG",
 	"contact" : "1588-4141"
 }
